@@ -1,0 +1,5 @@
+
+A.WITH RETURN TYPE AND ARGUMENT.
+B. using no return type but argument.
+C. using return type but no argument.
+D. Using no return type and no argument
